@@ -1,0 +1,20 @@
+{
+  "name": "peticao",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "express-handlebars": "^7.0.4",
+    "handlebars": "^4.7.7",
+    "nodemon": "^2.0.22",
+    "openai": "^3.1.0"
+  }
+}
